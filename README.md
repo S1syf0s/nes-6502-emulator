@@ -16,11 +16,11 @@ cpu.h
 nestest.nes
 nestest.log
 
-# Build
+## Build
 
 gcc main.c cpu.c -o main
 
-# Run
+## Run
 
 ./main
 
