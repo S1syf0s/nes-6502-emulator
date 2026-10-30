@@ -28,5 +28,7 @@ gcc main.c cpu.c -o main
 
 https://www.nesdev.org/wiki/Nesdev_Wiki
 
+## Tests
+
 <img width="1910" height="1011" alt="screenshot1" src="https://github.com/user-attachments/assets/6d8c7ddc-d17c-48f1-9379-915cb28b9507" />
 
