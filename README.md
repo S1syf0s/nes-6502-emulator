@@ -4,7 +4,7 @@ Single file 6502 machine language emulator used in the NES (Nintendo Enterntainm
 Emulator is able to process 6502 machine language instructions. Other parts like graphics, controls 
 or sounds not included. Does not support unofficial instructions. Also features the famous JMP-indirect bug ($6C).
 If processor reads low byte of the target address ending to FF, the high byte will be read from the beginning of the same memory page.
-Code is ugly, but works so, I don't care.
+Code is ugly, but works, so I don't care.
 
 Emulator passes `nestest`
 
